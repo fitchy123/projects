@@ -1,0 +1,1 @@
+Web scraping bbc news and wikipedia articles with requests and beautifulsoup to find articles most relevant to given keywords. Articles were pre-processed and used to train a Word2Vec model, cosine similarity was used to to measure how similar two words were. Dimensionality reduction with t-SNE was used to visualise these distances.
