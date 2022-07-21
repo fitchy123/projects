@@ -1,0 +1,1 @@
+Enhanced ranked-ant system applied to the travelling salesman problem. Ranked-ant system used local search,  pheremone smoothing and candidate lists to get optimal solutions on 7 of 11 randomly generated city sets (where city sets ranged from 12 to 535 cities)
