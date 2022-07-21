@@ -1,0 +1,1 @@
+Using logistic regression, k nearest neighbours and random forest (scikit-learn python) to predict the outcome of patient with COVID 19 using a dataset of COVID patients medical information. Data cleaning was done with pandas and scikit-learn. Final models achieved accuracies of around 70% and AUCs of around 0.8 with random forest being the best.
